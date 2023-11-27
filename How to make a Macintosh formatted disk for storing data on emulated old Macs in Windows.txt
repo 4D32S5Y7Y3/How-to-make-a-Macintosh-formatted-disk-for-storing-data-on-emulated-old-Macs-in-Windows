@@ -1,0 +1,15 @@
+How to make a Macintosh formatted disk for storing data on emulated old Macs in Windows
+
+Step 1: Download Mini vMac classic variation, Macintosh Classic ROM, and MacOS 7.0 Install 1 disk.
+Step 2: Rename the ROM file to Classic.ROM.
+Step 3: Open Mini vMac classic variation.
+Step 4: Drag Classic.ROM to Mini vMac if the ROM file is stored in a different location from the executable Mini vMac application.
+Step 5: Drag MacOS 7.0 Install 1 disk to Mini vMac.
+Step 6: Quit the MacOS installer.
+Step 7: Make or download a file. The file name and extension can be anything. The important thing here is the file size. Make the file size as big as you want. The file size is also the size of the new disk you're going to create and use. For example, you can download an 80 MB video to use it as a new 80 MB Macintosh disk.
+Step 8: Drag the new file you made or downloaded to Mini vMac.
+Step 9: MacOS 7 will tell you that the disk is not a Macintosh disk and ask whether you want to initialize it. Click initialize
+Step 10: MacOS will tell you that the process is going to erase all information in the disk. Click erase.
+Step 11: Name the disk and click ok.
+
+After this, you can use it for storing data.
